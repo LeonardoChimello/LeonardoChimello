@@ -43,3 +43,4 @@
 [jsplaylist]:
 [cssplaylist]: 
 [reactplaylist]: 
+![Snake animation](https://github.com/LeonardoChimello/LeonardoChimello/blob/output/github-contribution-grid-snake.svg)
