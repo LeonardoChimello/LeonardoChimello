@@ -1,7 +1,7 @@
 ### Olá, Eu sou Leonardo Chimello! 🔥🔥
 
 
-[![Me siga no Twitter](https://img.shields.io/twitter/follow/leo_Chimello_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/leo_Chimello_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leo_Chimello_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/leo_Chimello_)
 
 ## Sou um novo desenvolvedor(junior)!!
 
